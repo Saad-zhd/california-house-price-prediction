@@ -3,6 +3,11 @@
 **Instructor:** Dr. Rao Muhammad Adeel Nawab  
 **Institution:** COMSATS University Islamabad, Lahore Campus  
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://california-house-price-prediction-6164.streamlit.app/)
+
+> **Live Application URL:** [https://california-house-price-prediction-6164.streamlit.app/](https://california-house-price-prediction-6164.streamlit.app/)  
+> **GitHub Repository:** [https://github.com/Saad-zhd/california-house-price-prediction](https://github.com/Saad-zhd/california-house-price-prediction)  
+
 ---
 
 ## 📌 Project Overview
